@@ -185,6 +185,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "23065d1059e01398",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -201,11 +211,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cb5304b64e0a5bdc",
+  "active": "49635da0970a0d03",
   "lastOpenFiles": [
+    "system/templates",
+    "system",
     "Welcome.md"
   ]
 }
